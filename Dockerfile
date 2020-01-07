@@ -1,5 +1,4 @@
-FROM jenkins/slave:latest
-
+FROM jenkins/jnlp-slave:latest
 
 USER root
 
